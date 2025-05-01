@@ -1,4 +1,4 @@
-![Me coding](https://raw.githubusercontent.com/tajagn01/tajagn01/refs/heads/main/ChatGPT%20Image%20May%201%2C%202025%2C%2011_32_08%20PM.png)
+![Me coding](https://raw.githubusercontent.com/tajagn01/tajagn01/refs/heads/main/ChatGPT%20Image%20May%201%2C%202025%2C%2011_43_28%20PM.png)
 
 # 👋 Hi there, I'm Tajagn Garala
 
