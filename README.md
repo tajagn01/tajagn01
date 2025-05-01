@@ -1,4 +1,4 @@
-![Me coding](https://imgur.com/a/z0NE3d4)
+![Me coding](https://imgur.com/a/z0NE3d4.png)
 
 # 👋 Hi there, I'm Tajagn Garala
 
