@@ -1,16 +1,16 @@
-## Hi there 👋
+![Me coding](https://your-image-host-link.com/your-image.png)
 
-<!--
-**tajagn01/tajagn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Tajagn Garala
 
-Here are some ideas to get you started:
+🎓 I'm a B.Tech CSE student passionate about building things for the web.  
+💻 I know **HTML, CSS, JavaScript, C, Java**  
+🚀 Currently learning **React** and **Django**  
+🌐 I’m especially interested in **Web Development** and love creating modern, responsive websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm working on
+- Learning full-stack development (MERN & Django)
+- Building fun and useful side projects
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
