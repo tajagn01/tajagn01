@@ -10,21 +10,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tajagn01&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajagn01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tajagn01&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🖥️ Coding GIF (Dark & Minimal)
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
