@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tajagn Garala</h1>
-<h3 align="center">Full-Stack Developer | MEARN | C, C++, Java</h3>
+<h3 align="center">Full-Stack Developer | MEARN | C,Java</h3>
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,java,git,github,vscode" />
 </p>
 
 ---
