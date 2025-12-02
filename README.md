@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tajagn Garala</h1>
-<h3 align="center">Full-Stack Developer | MEARN | C,Java</h3>
+<h3 align="center">Full-Stack Developer | MEARN | C | Java</h3>
 
 ---
 
@@ -10,12 +10,6 @@
 
 ---
 
-## 🖥️ Coding GIF (Dark & Minimal)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
-</p>
-
----
 
 ## 🌍 Connect With Me
 <p align="center">
